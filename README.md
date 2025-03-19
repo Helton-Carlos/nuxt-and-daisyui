@@ -1,9 +1,22 @@
 # Nuxt And DaisyUi
 
+**💬 About.** 
+
+Nuxt and DaisyUi, Projeto para demostrar a biblioteca de componentes que funciona como um plugin para Tailwind: Nuxt3, Typescript, TailwindCSS e DaisyUI.
+
+**👇 Follow the steps.** 
+
 ```bash
-# npm
-npm install
+git clone https://github.com/Helton-Carlos/nuxt-and-daisyui.git
+```
 
+```bash
+npm i 
+```
+
+```bash
 npm run dev
+```
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/2dfb85bf-29a4-49af-9f46-30fe8eac54b9)
+
