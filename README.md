@@ -18,5 +18,11 @@ npm i
 npm run dev
 ```
 
+**👇 Leia o projeto no dev.to** 
+```bash
+https://dev.to/heltonbrito/nuxt3-e-daisyui-3n6f
+```
+
+
 ![image](https://github.com/user-attachments/assets/2dfb85bf-29a4-49af-9f46-30fe8eac54b9)
 
